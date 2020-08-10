@@ -1,0 +1,17 @@
+package com.gs.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.gs.dao.TicketBookingDao;
+import com.gs.entities.Ticket;
+
+public class TicketBookingService {
+			@Autowired
+			private TicketBookingDao ticketBookingDao;
+
+			public Ticket createTicket(Ticket ticket) {
+				// TODO Auto-generated method stub
+				return ticketBookingDao.save(ticket);
+			}
+			
+}

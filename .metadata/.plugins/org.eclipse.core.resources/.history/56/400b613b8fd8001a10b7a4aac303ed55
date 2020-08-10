@@ -1,0 +1,6 @@
+package com.gs.dao;
+
+public interface TopicDao {
+		public abstract List<Topic> getAllTopics();
+		
+}

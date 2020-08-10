@@ -1,0 +1,52 @@
+package com.gs.dao.impl;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+
+import com.gs.dao.TopicDao;
+import com.gs.entities.Topic;
+
+public class TopicDaoImpl implements TopicDao{
+	
+	@PersistenceContext
+	private EntityManager entityManager;
+
+	@Override
+	public List<Topic> getAllTopics() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Topic getTopicById(int topicById) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void addTopic(Topic topic) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void updateTopic(Topic topic) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteTopic(int topicId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean topicExists(String title, String category) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.gs.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.gs.dao.PeopleManagementDao;
+
+public class PeopleManagementService {
+		@Autowired
+		private PeopleManagementDao peopleManagementDao;
+}

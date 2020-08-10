@@ -1,0 +1,21 @@
+package com.gs.dao.impl;
+
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.gs.dao.UserInfoDao;
+import com.gs.entities.UserInfo;
+@Repository
+@Transactional
+public class UserInfoDaoImpl implements UserInfoDao{
+
+	@Override
+	public UserInfo getActiveUser(String userName) {
+		// TODO Auto-generated method stub
+		UserInfo userInfo=new UserInfo();
+		short ENABLED=1;
+		
+		return null;
+	}
+		
+}

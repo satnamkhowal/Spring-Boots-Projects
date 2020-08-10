@@ -1,0 +1,9 @@
+package com.gs.dao;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.gs.entities.Ticket;
+
+public interface TicketBookingDao extends CrudRepository<Ticket, Integer> {
+			
+}

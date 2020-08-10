@@ -1,0 +1,9 @@
+package com.gs.generate.password;
+
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+
+public class BCryptPasswordEncoderTest {
+		public static void main(String[] args) {
+			BCryptPasswordEncoder encoder=new BCryptPasswordEncoder();
+		}
+}

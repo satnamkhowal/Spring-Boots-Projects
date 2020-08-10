@@ -1,0 +1,16 @@
+package com.gs.config;
+
+import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
+import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+@EnableWebSecurity
+@EnableGlobalMethodSecurity(securedEnabled=true)
+public class SecurityConfig  extends WebSecurityConfigurerAdapter{
+		@Override
+		@Autowired
+		protected void configure(AuthenticationManagerBuilder auth) throws Exception {
+			// TODO Auto-generated method stub
+			
+		}
+}

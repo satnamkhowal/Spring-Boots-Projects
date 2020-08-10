@@ -1,0 +1,13 @@
+package com.gs.entities;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="ticket")
+public class Ticket {
+		@Id
+		@GeneratedValue(strategy = GenerationType.AUTO)
+}

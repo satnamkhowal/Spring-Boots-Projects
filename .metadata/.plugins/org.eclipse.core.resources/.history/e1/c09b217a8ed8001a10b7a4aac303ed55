@@ -1,0 +1,5 @@
+package com.gs.generate.password;
+
+public class BCryptPasswordEncoderTest {
+
+}

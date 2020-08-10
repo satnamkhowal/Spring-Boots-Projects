@@ -1,0 +1,5 @@
+package com.gs.dao.impl;
+
+public class TopicDaoImpl {
+
+}

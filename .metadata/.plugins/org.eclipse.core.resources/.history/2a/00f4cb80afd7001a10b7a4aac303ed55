@@ -1,0 +1,11 @@
+package com.gs.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.gs.dao.TicketBookingDao;
+
+public class TicketBookingService {
+			@Autowired
+			private TicketBookingDao ticketBookingDao;
+			
+}

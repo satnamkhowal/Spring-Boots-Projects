@@ -1,0 +1,7 @@
+package com.gs.dao.impl;
+
+import com.gs.dao.TopicDao;
+
+public class TopicDaoImpl implements TopicDao{
+
+}

@@ -1,0 +1,9 @@
+package com.gs.repo;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.gs.model.Book;
+
+public interface BookRepository extends JpaRepository<Book, Long>{
+
+}

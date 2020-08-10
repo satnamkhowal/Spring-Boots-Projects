@@ -1,0 +1,5 @@
+package com.gs.rest.controllers;
+
+public class MyRestController {
+
+}

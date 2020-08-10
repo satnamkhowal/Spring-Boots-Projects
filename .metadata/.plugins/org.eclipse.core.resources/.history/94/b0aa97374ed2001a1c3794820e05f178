@@ -1,0 +1,12 @@
+package controllers;
+
+import org.springframework.stereotype.Controller;
+
+
+@Controller(value = "/api/")
+public class SecurityController {
+	
+		public String hello() {
+			return "Hello";
+		}
+}
