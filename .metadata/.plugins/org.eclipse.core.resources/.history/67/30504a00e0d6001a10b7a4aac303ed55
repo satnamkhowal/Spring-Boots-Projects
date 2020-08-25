@@ -1,5 +1,0 @@
-package com.gs.repo;
-
-public interface BookRepository {
-
-}

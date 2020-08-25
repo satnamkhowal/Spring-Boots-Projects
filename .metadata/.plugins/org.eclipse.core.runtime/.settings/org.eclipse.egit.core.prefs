@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\admin\\Desktop\\New folder\\SpringBootCustomSecurityWithDatabase\\.git;C\:\\Users\\admin\\Desktop\\New folder\\TicketBookingManagementApp\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\admin\\Desktop\\New folder\\SpringBootCustomSecurityWithDatabase\\.git;C\:\\Users\\admin\\Desktop\\New folder\\TicketBookingManagementApp\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\admin\\Desktop\\New folder\\SpringBootCustomSecurityWithDatabase\\.git;C\:\\Users\\admin\\Desktop\\New folder\\spring-security-pac4j-boot-demo\\.git;C\:\\workspace2\\.git;C\:\\mycode\\authentication-service-api\\.git;C\:\\Users\\admin\\Desktop\\New folder\\TicketBookingManagementApp\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\Users\\admin\\Desktop\\New folder\\SpringBootCustomSecurityWithDatabase\\.git;C\:\\Users\\admin\\Desktop\\New folder\\spring-security-pac4j-boot-demo\\.git;.git;C\:\\mycode\\authentication-service-api\\.git;C\:\\Users\\admin\\Desktop\\New folder\\TicketBookingManagementApp\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

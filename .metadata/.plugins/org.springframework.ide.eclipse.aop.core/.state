@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="SecurityLogin"/>
-<aop-project name="SecurityEx"/>
+<aop-project name="SpringWithMySql"/>
+<aop-project name="SpringBootDataJPAUpdateData"/>
+<aop-project name="SpringBootDataJPAQuery_Annotation_1"/>
+<aop-project name="MySpringBootCustomSecurityWithDatabaseUsingHibernate"/>
+<aop-project name="SpringSecurityInMemoryAuthentication2"/>
+<aop-project name="spring-security-pac4j-boot-demo"/>
+<aop-project name="SpringBootCustomSecurityWithDatabase"/>
+<aop-project name="PeopleManagementSpringBootDataApp"/>
+<aop-project name="authentication-service-api"/>
+<aop-project name="InMemoryAuthentication-1"/>
+<aop-project name="SpringSecurityInMemoryAuthentication"/>
+<aop-project name="SpringBootDataJPAQueryMethodDemo"/>
+<aop-project name="SpringBootCustomSecurityWithDatabaseUsingJpa"/>
 </aop-reference-model>

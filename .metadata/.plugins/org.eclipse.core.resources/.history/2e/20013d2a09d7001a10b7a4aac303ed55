@@ -1,7 +1,0 @@
-package com.gs.config;
-
-import org.springframework.security.config.annotation.SecurityConfigurerAdapter;
-
-public class SecurityConfig  extends SecurityConfigurerAdapter<O, SecurityBuilder<O>>{
-
-}

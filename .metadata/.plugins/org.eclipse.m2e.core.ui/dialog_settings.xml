@@ -25,13 +25,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.javatpoint"/>
 		</list>
 		<list key="groupId">
-			<item value="com.javatpoint"/>
 		</list>
 		<list key="artifactId">
-			<item value="spring-boot-example-sts"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -47,10 +44,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.gs"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringSecurityEx"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -70,6 +69,11 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\mycode\authentication-service-api"/>
+			<item value="C:\Users\admin\Desktop\New folder\SpringBootCustomSecurityWithDatabase\SpringBootCustomSecurityWithDatabase"/>
+			<item value="C:\Users\admin\Desktop\New folder\TicketBookingManagementApp\TicketBookingManagementApp"/>
+			<item value="C:\eclipse-workspace\SpringWithMySql"/>
+			<item value="C:\eclipse-workspace\SimpleWebApp"/>
 			<item value="C:\Users\admin\Desktop\New folder\SecurityEx"/>
 			<item value="C:\Users\admin\Desktop\New folder\SecurityLogin"/>
 		</list>
