@@ -69,6 +69,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\mycode\Catalogue-Service-API"/>
 			<item value="C:\mycode\authentication-service-api"/>
 			<item value="C:\Users\admin\Desktop\New folder\SpringBootCustomSecurityWithDatabase\SpringBootCustomSecurityWithDatabase"/>
 			<item value="C:\Users\admin\Desktop\New folder\TicketBookingManagementApp\TicketBookingManagementApp"/>

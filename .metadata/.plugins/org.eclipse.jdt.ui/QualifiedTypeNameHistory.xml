@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="javax.websocket.server.ServerEndpoint"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
-<fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UserDetailsService"/>
-<fullyQualifiedTypeName name="com.gs.entities.UserInfo"/>
-<fullyQualifiedTypeName name="com.gs.repo.UserInfoRepo"/>
-<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
-<fullyQualifiedTypeName name="org.springframework.security.core.GrantedAuthority"/>
-<fullyQualifiedTypeName name="org.springframework.security.core.authority.SimpleGrantedAuthority"/>
-<fullyQualifiedTypeName name="org.springframework.security.core.userdetails.User"/>
-<fullyQualifiedTypeName name="java.util.Arrays"/>
-<fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UserDetails"/>
-<fullyQualifiedTypeName name="org.springframework.security.web.authentication.www.BasicAuthenticationEntryPoint"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.EnableWebSecurity"/>
@@ -42,7 +30,6 @@
 <fullyQualifiedTypeName name="liquibase.pro.packaged.bu"/>
 <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="org.springframework.http.HttpMethod"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
 <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.node.ObjectNode"/>
@@ -60,4 +47,17 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.Void"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.repository.support.MapJobRepositoryFactoryBean"/>
+<fullyQualifiedTypeName name="org.springframework.batch.support.transaction.ResourcelessTransactionManager"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.launch.support.SimpleJobLauncher"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.step.tasklet.Tasklet"/>
+<fullyQualifiedTypeName name="org.springframework.batch.repeat.RepeatStatus"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.launch.JobLauncher"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.Job"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.JobExecution"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.JobParameters"/>
 </qualifiedTypeNameHistroy>
